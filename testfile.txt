@@ -4,3 +4,4 @@ The Lord is Good
 
 In this class, we would be convering everything DeVops related. Currently, the class is working on version control with Git. Git is a software management tool that is used by millions of software developers all over the world.
 I am adding a new line of text to the file
+The recent changes being made on this file is NOT being made on the master branch but the new_feature branch.
